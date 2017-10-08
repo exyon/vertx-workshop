@@ -13,11 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-/**
- * An implementation of {@link Verticle} taking care of the discovery and publication of services.
- *
- * @author <a href="http://escoffier.me">Clement Escoffier</a>
- */
+
 public class MicroServiceVerticle extends AbstractVerticle {
 
   protected ServiceDiscovery discovery;

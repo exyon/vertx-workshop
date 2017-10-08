@@ -13,11 +13,6 @@ import rx.Single;
 
 import java.util.Set;
 
-/**
- * An implementation of {@link Verticle} taking care of the discovery and publication of services.
- *
- * @author <a href="http://escoffier.me">Clement Escoffier</a>
- */
 public class RxMicroServiceVerticle extends MicroServiceVerticle {
 
   protected Vertx vertx;

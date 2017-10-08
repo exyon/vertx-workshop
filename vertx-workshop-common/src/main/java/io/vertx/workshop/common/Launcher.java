@@ -9,9 +9,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-/**
- * @author <a href="http://escoffier.me">Clement Escoffier</a>
- */
+
 public class Launcher extends io.vertx.core.Launcher {
 
   public static void main(String[] args) {
