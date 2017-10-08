@@ -6,7 +6,7 @@ import io.vertx.core.json.JsonObject;
 import io.vertx.workshop.common.MicroServiceVerticle;
 
 /**
- * a verticle generating "fake" quotes based on the configuration.
+ * a verticle generating fake quotes based on the configuration.
  */
 public class GeneratorConfigVerticle extends MicroServiceVerticle {
 
